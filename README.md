@@ -62,7 +62,7 @@ The tool WetSAT-ML allow users to:
   
 <p class="caption"> WetSAT-ML methodology workflow for generating wetland flooding extent and trends using Sentinel-1 data and machine learning.</p>
 
-<img src="https://github.com/sei-latam/WETSAT_v2/blob/e2141f047f6dea84e1ebf49830351327cb775434/WetSAT_Design_Official.png" alt="Figure 1. WetSAT-ML methodology workflow for generating wetland flooding extent and trends using Sentinel-1 data and machine learning." width="100%"/>
+<img src="https://github.com/sei-latam/WETSAT_v2/blob/a252d357545534f72b7f2fd8fce593a733a47749/WetSAT_Design_Official.png" alt="Figure 1. WetSAT-ML methodology workflow for generating wetland flooding extent and trends using Sentinel-1 data and machine learning." width="100%"/>
 
 </div>
 
