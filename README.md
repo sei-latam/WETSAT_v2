@@ -35,7 +35,7 @@ WetSAT-ML Version 1.0
 
 <h4 align="justify">
 WetSAT-ML (Wetlands flooding extent and trends using SATellite data and Machine Learning) version 1.0, It consists of an open-source algorithm integrated with platforms such as: 
-Google Earth Engine, Google Colab, and  Scikit Learn.The tool processes radar satellite data from the Sentinel-1 mission to generate wetland flooding extent maps, water permanence maps, and quantify key hydrological parameters, including flooded area time series, hydroperiods, and intra- and inter-annual wetland area trends. The algorithm will use machine learning models to characterize the scattering behavior of the radar signal for different wetland flooding conditions, enabling a pixel-level water detection in the satellite images.
+Google Earth Engine, Google Colab, and  Scikit Learn. The tool processes radar satellite data from the Sentinel-1 mission to generate wetland flooding extent maps, water permanence maps, and quantify key hydrological parameters, including flooded area time series, hydroperiods, and intra- and inter-annual wetland area trends. The algorithm will use machine learning models to characterize the scattering behavior of the radar signal for different wetland flooding conditions, enabling a pixel-level water detection in the satellite images.
 </h4>
 
 <h4 align="left">
